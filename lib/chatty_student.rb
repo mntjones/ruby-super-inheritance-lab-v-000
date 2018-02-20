@@ -10,4 +10,5 @@ class ChattyStudent < Student
       puts "Pick me!"*10
     end
   end
+  
 end
