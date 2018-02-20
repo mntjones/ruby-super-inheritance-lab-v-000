@@ -6,15 +6,8 @@ class ChattyStudent < Student
   end
   
   def raise_hand
-    super end
-    super end
-    super end
-    super end
-    super end
-    super end
-    super end
-    super end
-    super end
-    super end
+    super
+      puts "Pick me!".10
+    end
   end
 end
